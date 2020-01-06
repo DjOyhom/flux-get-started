@@ -47,7 +47,7 @@ spec:
         - --random-error=false
         env:
         - name: PODINFO_UI_MESSAGE
-          value: "VLP papis"
+          value: "VLP papis siiiiii bb"
         livenessProbe:
           httpGet:
             path: /healthz
